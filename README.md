@@ -3,6 +3,7 @@
 In this project we will explore the progression of the pandemic in Clark County, Nevada and also derive insights about the pandemic could have specifically impacted the toursim industry within this county (through the lens of publicly available Airbnb data).
 
 ## File Structure
+```
 .
 ├── README.md
 ├── License
@@ -28,6 +29,7 @@ In this project we will explore the progression of the pandemic in Clark County,
     ├── A5.pdf
     ├── A6.pdf
     └── A7.pdf
+```
 
 ## License
 
